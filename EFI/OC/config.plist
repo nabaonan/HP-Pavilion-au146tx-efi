@@ -1711,7 +1711,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>xxxxxxxxxxxxxxx</string>
+                <string>C02730500GUH69F1H</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1725,9 +1725,9 @@
                 <key>SystemProductName</key>
                 <string>iMac18,1</string>
                 <key>SystemSerialNumber</key>
-                <string>xxxxxxxxxxx</string>
+                <string>C02V48ZEH7JY</string>
                 <key>SystemUUID</key>
-                <string>53D8E621-7AEA-45A9-BFCB-BFF815AB4AF1</string>
+                <string>16914609-D03D-4D26-BC46-B58869E6C556</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
